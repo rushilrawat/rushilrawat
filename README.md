@@ -1,5 +1,6 @@
 ## Hello <img src="https://raw.githubusercontent.com/RushilRawat/RushilRawat/master/wave.gif" width="30px">
-Profile is in devlopment   
+Profile is in devlopment.   
+I will keep adding Code.
 <!--
 **RushilRawat/RushilRawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
