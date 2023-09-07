@@ -1,4 +1,6 @@
 ## Hello <img src="https://raw.githubusercontent.com/RushilRawat/RushilRawat/master/wave.gif" width="30px">
+
+"Hey there! 👋 I'm Rush, a high school student with a passion for technology and coding. 💻"
 Profile is in devlopment. I will keep adding Code.
 <!--
 **RushilRawat/RushilRawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RushR2005&layout=compact)](https://github.com/RushR2005/github-readme-stats)
-
-
-
