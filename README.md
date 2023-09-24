@@ -1,7 +1,8 @@
 ## Hello <img src="https://raw.githubusercontent.com/RushilRawat/RushilRawat/master/wave.gif" width="30px">
 
 "Hey there! 👋 I'm Rush, a high school student with a passion for technology and coding. 💻"
-Profile is in devlopment. I will keep adding Code.
+
+Profile is in devlopment. I will add more codes & projects.
 <!--
 **RushilRawat/RushilRawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
