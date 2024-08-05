@@ -1,17 +1,17 @@
 # Hello, I'm Rushil Rawat <img src="https://raw.githubusercontent.com/RushilRawat/RushilRawat/master/wave.gif" width="30px">
 
-I am Rushil Rawat, an incoming freshman at the [University of Massachusetts Amherst](https://www.umass.edu/), class of '28, majoring in Computer Science at the highly ranked [Manning College of Informatics & Computer Science](https://cics.umass.edu).
+I am Rushil Rawat, an incoming freshman at the [University of Massachusetts Amherst](https://www.umass.edu/), class of '28, majoring in Computer Science at the highly ranked [Manning College of Informatics & Computer Science](https://cics.umass.edu). Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rushilrawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushilrawat/)](https://www.linkedin.com/in/rushilrawat/)
 [![GitHub Badge](https://img.shields.io/badge/-rushilrawat-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/RushR2005)](https://github.com/RushR2005)
-[![Gmail Badge](https://img.shields.io/badge/-rawat.rushil.work@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rawat.rushil.work@gmail.com)](mailto:rawat.rushil.work@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rawat.rushil.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rawat.rushil.work@gmail.com)](mailto:rawat.rushil.work@gmail.com)
 
 ## ⚡ About Me
 
 - 🎓 Graduated from DPS Noida in 2024, where I proudly served as Head Boy and excelled in both extracurriculars and academics.
 - 💻 Deep interest in Data Science, proficient in Python, Java, HTML, and CSS.
 - 🚀 Passionate about working on innovative projects, earning laurels in numerous hackathons.
-- 🏅 Winner of the Inspire MANAK Award for innovation by the Department of Science & Technology, Government of India.
+- 🏅 Winner of various Hackathons & Innovation fests inclusing the Inspire MANAK Award for innovation by the Department of Science & Technology, Government of India.
 - 🤝 Always open to collaborating on projects and innovative ideas.
 
 ## ⚡ Technologies
@@ -25,9 +25,9 @@ I am Rushil Rawat, an incoming freshman at the [University of Massachusetts Amhe
 
 ## 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rushilrawat&count_private=true&show_icons=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushilrawat&layout=compact)](https://github.com/rushilrawat/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rushilrawat.rushilrawat)
+![Visitor Badge](https://komarev.com/ghpvc/?username=rushilrawat)
 
 <!--
 **RushilRawat/RushilRawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,4 +43,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushilrawat&layout=compact)](https://github.com/rushilrawat/github-readme-stats)
