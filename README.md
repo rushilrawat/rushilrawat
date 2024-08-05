@@ -13,7 +13,7 @@ I am Rushil Rawat, an incoming freshman at the [University of Massachusetts Amhe
 - 🎓 Graduated from DPS Noida in 2024, where I proudly served as Head Boy and excelled in both extracurriculars and academics.
 - 💻 Deep interest in Data Science, proficient in Python, Java, HTML, and CSS.
 - 🚀 Passionate about working on innovative projects, earning laurels in numerous hackathons.
-- 🏅 Winner of various Hackathons & Innovation fests inclusing the Inspire MANAK Award for innovation by the Department of Science & Technology, Government of India.
+- 🏅 Winner of various Hackathons & Innovation fests including the Inspire MANAK Award for innovation by the Department of Science & Technology, Government of India.
 - 🤝 Always open to collaborating on projects and innovative ideas.
 
 ## ⚡ Technologies
