@@ -1,7 +1,4 @@
-## Hello <img src="https://raw.githubusercontent.com/RushilRawat/RushilRawat/master/wave.gif" width="30px">
-
-"Hey there! 👋 I'm Rushil Rawat, an incoming freshman at University of Massachusetts Amherst majoring in Computer Science with a passion for technology and coding. 💻"
-# Hello, I'm Rushil Rawat 👋
+# Hello, I'm Rushil Rawat <img src="https://raw.githubusercontent.com/RushilRawat/RushilRawat/master/wave.gif" width="30px">
 
 ### About Me
 - 🎓 Incoming freshman at the University of Massachusetts Amherst, Class of '28
