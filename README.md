@@ -8,7 +8,7 @@ I am Rushil Rawat, an incoming freshman at the [University of Massachusetts Amhe
 [![Gmail Badge](https://img.shields.io/badge/-rushilrawat@umass.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rushilrawat@umass.edu)](mailto:rushilrawat@umass.edu)
 [![Gmail Badge](https://img.shields.io/badge/-rawat.rushil.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rawat.rushil.work@gmail.com)](mailto:rawat.rushil.work@gmail.com)
 
-## ⚡ About Me
+## 🧑‍💻 About Me
 
 - 🎓 Graduated from DPS Noida in 2024, where I proudly served as Head Boy and excelled in both extracurriculars and academics.
 - 💻 Deep interest in Data Science, proficient in Python, Java, HTML, and CSS.
