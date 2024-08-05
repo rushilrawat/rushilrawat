@@ -1,22 +1,33 @@
 # Hello, I'm Rushil Rawat <img src="https://raw.githubusercontent.com/RushilRawat/RushilRawat/master/wave.gif" width="30px">
 
-### About Me
-- 🎓 Incoming freshman at the University of Massachusetts Amherst, Class of '28
-- 📚 Major: Computer Science
-- 🎓 Graduated from DPS Noida in 2024, served as Head Boy, and excelled in both extracurriculars and academics
+I am Rushil Rawat, an incoming freshman at the [University of Massachusetts Amherst](https://www.umass.edu/), class of '28, majoring in Computer Science at the highly ranked [Manning College of Informatics & Computer Science](https://cics.umass.edu).
 
-### Goals
-- 🛠️ Leverage my skills and passion for technology in cutting-edge research and collaborative projects
-- 🤝 Connect with tech enthusiasts, professors, and industry professionals to further my knowledge and contribute to the field of computer science
+[![Linkedin Badge](https://img.shields.io/badge/-rushilrawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushilrawat/)](https://www.linkedin.com/in/rushilrawat/)
+[![GitHub Badge](https://img.shields.io/badge/-rushilrawat-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/RushR2005)](https://github.com/RushR2005)
+[![Gmail Badge](https://img.shields.io/badge/rawat.rushil.work@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rawat.rushil.work@gmail.com)](mailto:rawat.rushil.work@gmail.com)
 
-### Skills and Interests
-- 💻 **Languages**: Python, Java, HTML, CSS
-- 📊 **Interest**: Data Science
-- 🚀 **Projects**: Working on innovative tech projects
+## ⚡ About Me
 
-### Achievements
-- 🏅 Winner of the Inspire MANAK Award for innovation by the Department of Science & Technology, Government of India
-- 🏆 Laurels in numerous hackathons
+- 🎓 Graduated from DPS Noida in 2024, where I proudly served as Head Boy and excelled in both extracurriculars and academics.
+- 💻 Deep interest in Data Science, proficient in Python, Java, HTML, and CSS.
+- 🚀 Passionate about working on innovative projects, earning laurels in numerous hackathons.
+- 🏅 Winner of the Inspire MANAK Award for innovation by the Department of Science & Technology, Government of India.
+- 🤝 Always open to collaborating on projects and innovative ideas.
+
+## ⚡ Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 📊 GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RushR2005&count_private=true&show_icons=true&include_all_commits=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RushR2005.RushR2005)
 
 <!--
 **RushilRawat/RushilRawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
