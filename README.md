@@ -6,6 +6,7 @@ I am Rushil Rawat, an incoming freshman at the [University of Massachusetts Amhe
 [![GitHub Badge](https://img.shields.io/badge/-rushilrawat-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/RushR2005)](https://github.com/RushR2005)
 [![Gmail Badge](https://img.shields.io/badge/-rushilrawat@umass.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rushilrawat@umass.edu)](mailto:rushilrawat@umass.edu)
 [![Gmail Badge](https://img.shields.io/badge/-rawat.rushil.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rawat.rushil.work@gmail.com)](mailto:rawat.rushil.work@gmail.com)
+[![X (formerly Twitter)](https://img.shields.io/twitter/url?url=rushilrawat)]
 
 ## ⚡ About Me
 
