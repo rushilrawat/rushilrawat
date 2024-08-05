@@ -4,7 +4,7 @@ I am Rushil Rawat, an incoming freshman at the [University of Massachusetts Amhe
 
 [![Linkedin Badge](https://img.shields.io/badge/-rushilrawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushilrawat/)](https://www.linkedin.com/in/rushilrawat/)
 [![GitHub Badge](https://img.shields.io/badge/-rushilrawat-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/RushR2005)](https://github.com/RushR2005)
-[![Gmail Badge](https://img.shields.io/badge/rawat.rushil.work@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rawat.rushil.work@gmail.com)](mailto:rawat.rushil.work@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rawat.rushil.work@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rawat.rushil.work@gmail.com)](mailto:rawat.rushil.work@gmail.com)
 
 ## ⚡ About Me
 
@@ -25,9 +25,9 @@ I am Rushil Rawat, an incoming freshman at the [University of Massachusetts Amhe
 
 ## 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=RushR2005&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rushilrawat&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RushR2005.RushR2005)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rushilrawat.rushilrawat)
 
 <!--
 **RushilRawat/RushilRawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
