@@ -1,6 +1,6 @@
 ## Hello <img src="https://raw.githubusercontent.com/RushilRawat/RushilRawat/master/wave.gif" width="30px">
 
-"Hey there! 👋 I'm Rush, a high school student with a passion for technology and coding. 💻"
+"Hey there! 👋 I'm Rushil Rawat, an incoming freshman at University of Massachusetts Amherst majoring in Computer Science with a passion for technology and coding. 💻"
 
 Profile is in devlopment. I will add more codes & projects.
 <!--
