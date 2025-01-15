@@ -1,6 +1,6 @@
 # Hello, I'm Rushil Rawat <img src="https://raw.githubusercontent.com/RushilRawat/RushilRawat/master/wave.gif" width="30px">
 
-I am Rushil Rawat, an incoming freshman at the [University of Massachusetts Amherst](https://www.umass.edu/), class of '28, majoring in Computer Science at the highly ranked [Manning College of Informatics & Computer Science](https://cics.umass.edu). Feel free to connect with me here:
+I am Rushil Rawat, an freshman at the [University of Massachusetts Amherst](https://www.umass.edu/), class of '28, majoring in Computer Science at the highly ranked [Manning College of Informatics & Computer Science](https://cics.umass.edu). Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rushilrawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushilrawat/)](https://www.linkedin.com/in/rushilrawat/)
 [![GitHub Badge](https://img.shields.io/badge/-rushilrawat-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/RushR2005)](https://github.com/RushR2005)
