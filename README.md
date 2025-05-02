@@ -4,9 +4,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=007AFF&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%7C+UMass+Amherst+%F0%9F%87%BA%F0%9F%87%B8;Aspiring+Data+Scientist+%7C+Developer+%7C+Innovator;Open+Source+Contributor+%7C+Hackathon+Winner" alt="Typing SVG" />
 </p>
 
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rushilrawat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/RushilRawat"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/rushilrawat/"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="mailto:rushilrawat@umass.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:rushilrawat@umass.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
+</p>
+
 ---
 
-### 🎓 About Me
+## 🚀 About Me
 - 🏫 Freshman at the [University of Massachusetts Amherst](https://www.umass.edu/), Class of 2028.
 - 🎓 Graduated from DPS Noida (Head Boy '24) with a strong background in leadership and innovation.
 - 🧠 Passionate about Data Science, Machine Learning, and Frontend Development.
@@ -15,69 +26,68 @@
 
 ---
 
-### ⚡ Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</p>
+## 🛠️ My Skill Set
 
-
-### 🛠 Libraries & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tkinter-FF6F61?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pygame-0A0A0A?style=for-the-badge&logo=pygame&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Languages</h3>
+      <div align="center">  
+        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+        <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="50" /></a>  
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+        <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Libraries & Frameworks</h3>
+      <div align="center">  
+        <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+        <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="50" /></a>  
+        <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="50" /></a>  
+        <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50" /></a>  
+        <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50" /></a>  
+        <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="50" /></a>  
+        <a href="https://docs.python.org/3/library/tkinter.html" target="_blank"><img style="margin: 10px" src="https://i.imgur.com/8MlAFKD.png" alt="Tkinter" height="50" /></a>  
+        <a href="https://www.pygame.org/" target="_blank"><img style="margin: 10px" src="https://www.pygame.org/ftp/pygame-head-party.png" alt="Pygame" height="50" /></a>  
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Tools & Platforms</h3>
+      <div align="center">  
+        <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" alt="GitHub" height="50" /></a>  
+        <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="50" /></a>  
+        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+        <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+        <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+        <a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="OpenAI" height="50" /></a>  
+        <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50" /></a>  
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/rushilrawat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/RushR2005"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://x.com/rushilrawat/"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="mailto:rushilrawat@umass.edu"><img src="https://img.shields.io/badge/-rushilrawat@umass.edu-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="mailto:rawat.rushil.work@gmail.com"><img src="https://img.shields.io/badge/-rawat.rushil.work@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</p>
+## 📊 GitHub Analytics
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushilrawat&show_icons=true&theme=default" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushilrawat&layout=compact&theme=default" height="180em"/>
-</p>
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushilrawat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushilrawat&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rushilrawat&style=flat-square&color=blue" alt="Visitor Count"/>
 </p>
 
-
 ---
+
 
 <!--
 **RushilRawat/RushilRawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
