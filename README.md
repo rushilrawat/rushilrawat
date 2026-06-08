@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🏫 Sophomore at the [University of Massachusetts Amherst](https://www.umass.edu/), Class of 2028.
+- 🏫 Junior at the [University of Massachusetts Amherst](https://www.umass.edu/), Class of 2028.
 - 🎓 Graduated from DPS Noida (Head Boy '24) with a strong background in leadership and innovation.
 - 🧠 Passionate about Data Science, Machine Learning, and Frontend Development.
 - 🏆 Winner of multiple hackathons & innovation awards including the **INSPIRE MANAK Award** by the Department of Science & Technology, Govt. of India.
@@ -87,14 +87,13 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushilrawat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushilrawat&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rushilrawat&style=flat-square&color=blue" alt="Visitor Count"/>
 </p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rushilrawat&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 
 
