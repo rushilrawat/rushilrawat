@@ -91,10 +91,10 @@
   <img src="https://komarev.com/ghpvc/?username=rushilrawat&style=flat-square&color=blue" alt="Visitor Count"/>
 </p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rushilrawat&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushilrawat&layout=donut&theme=transparent" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rushilrawat&theme=transparent" />
+</p>
 
 
 
