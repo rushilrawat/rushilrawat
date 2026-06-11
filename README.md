@@ -27,60 +27,75 @@
 ## 🛠️ My Skill Set
 
 <table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Programming Languages</h3>
-      <div align="center">  
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="50" /></a>  
-        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-        <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-        <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Frameworks & Libraries</h3>
-      <div align="center">  
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-        <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-        <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-        <a href="https://www.framer.com/motion/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/framer/motion/main/docs/static/motion-logo.svg" alt="Framer Motion" height="50" /></a>  
-        <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="50" /></a>  
-        <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="50" /></a>  
-        <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50" /></a>  
-        <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-        <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50" /></a>  
-        <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="50" /></a>  
-        <a href="https://docs.python.org/3/library/tkinter.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Tkinter.png/240px-Tkinter.png" alt="Tkinter" height="50" /></a>  
-        <a href="https://www.pygame.org/" target="_blank"><img style="margin: 10px" src="https://www.pygame.org/ftp/pygame-head-party.png" alt="Pygame" height="50" /></a>  
-        <a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://ui.shadcn.com/favicon.ico" alt="Shadcn UI" height="50" /></a>  
-        <a href="https://lucide.dev/" target="_blank"><img style="margin: 10px" src="https://lucide.dev/logo.dark.svg" alt="Lucide React" height="50" /></a>  
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Tools & Technologies</h3>
-      <div align="center">  
-        <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" alt="GitHub" height="50" /></a>  
-        <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vite.svg" alt="Vite" height="50" /></a>  
-        <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="50" /></a>  
-        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-        <a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="OpenAI" height="50" /></a>  
-        <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-        <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50" /></a>  
-        <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-        <a href="https://en.wikipedia.org/wiki/Internet_of_things" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" alt="Internet of Things (IoT)" height="50" /></a>  
-        <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/684/684908.png" alt="Geographic Information Systems (GIS)" height="50" /></a>  
-      </div>
-    </td>
-  </tr>
+<tr>
+
+<td valign="top" width="25%">
+<h3 align="center">Languages</h3>
+<div align="center">
+
+<a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/></a>
+<a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
+<a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50"/></a>
+<a href="https://www.cplusplus.com/"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50"/></a>
+<a href="https://www.rust-lang.org/"><img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/></a>
+<a href="https://www.r-project.org/"><img src="https://profilinator.rishav.dev/skills-assets/r.svg" height="50"/></a>
+
+</div>
+</td>
+
+<td valign="top" width="25%">
+<h3 align="center">Web & Backend</h3>
+<div align="center">
+
+<a href="https://react.dev/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/></a>
+<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50"/></a>
+<a href="https://tailwindcss.com/"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50"/></a>
+<a href="https://supabase.com/"><img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="50"/></a>
+<a href="https://www.mongodb.com/"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/></a>
+<a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/></a>
+<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/></a>
+<a href="https://www.pygame.org/" target="_blank"><img style="margin: 10px" src="https://www.pygame.org/ftp/pygame-head-party.png" alt="Pygame" height="50" /></a>  
+
+
+</div>
+</td>
+
+<td valign="top" width="25%">
+<h3 align="center">AI / ML / Data</h3>
+<div align="center">
+
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50"/></a>
+<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50"/></a>
+<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/></a>
+<a href="https://opencv.org/"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50"/></a>
+<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"/></a>
+<a href="https://matplotlib.org/"><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="50"/></a>
+<a href="https://plotly.com/"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="50"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="50" /></a>  
+<a href="https://www.tableau.com/"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50"/></a>
+
+</div>
+</td>
+
+<td valign="top" width="25%">
+<h3 align="center">DevOps & Tools</h3>
+<div align="center">
+
+<a href="https://git-scm.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/></a>
+<a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50"/></a>
+<a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50"/></a>
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/></a>
+<a href="https://aws.amazon.com/"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" height="50"/></a>
+<a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50"/></a>
+
+</div>
+</td>
+
+</tr>
 </table>
 
 ---
