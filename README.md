@@ -74,7 +74,6 @@
 <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"/></a>
 <a href="https://matplotlib.org/"><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="50"/></a>
 <a href="https://plotly.com/"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="50"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="50" /></a>  
 <a href="https://www.tableau.com/"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50"/></a>
 
 </div>
@@ -85,7 +84,7 @@
 <div align="center">
 
 <a href="https://git-scm.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/></a>
-<a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50"/></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="50" /></a>
 <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50"/></a>
 <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/></a>
 <a href="https://aws.amazon.com/"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50"/></a>
