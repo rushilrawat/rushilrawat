@@ -71,8 +71,8 @@
 <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50"/></a>
 <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/></a>
 <a href="https://opencv.org/"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50"/></a>
-<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"/></a>
 <a href="https://matplotlib.org/"><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="50"/></a>
+<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"/></a>
 <a href="https://plotly.com/"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="50"/></a>
 <a href="https://www.tableau.com/"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50"/></a>
 
@@ -89,6 +89,7 @@
 <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/></a>
 <a href="https://aws.amazon.com/"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50"/></a>
 <a href="https://azure.microsoft.com/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" height="50"/></a>
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="50" /></a>
 <a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50"/></a>
 
 </div>
